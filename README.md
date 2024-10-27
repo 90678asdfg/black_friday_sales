@@ -8,13 +8,14 @@ Data Cleaning: Processed and cleaned a large dataset to ensure accuracy and cons
 Exploratory Data Analysis (EDA): Performed visualizations and statistical analysis using Seaborn and Python libraries to explore data relationships and trends.
 Customer Behavior Insights: Identified key customer segments and behavioral patterns by analyzing correlations between variables such as purchase behavior, demographics, and product categories.
 Targeted Marketing Strategy: The insights generated can aid in designing personalized marketing campaigns, leading to better engagement and improved sales performance.
+
 KEY INSIGHTS:
 
 
 The analysis revealed critical customer behavior patterns and correlations that help businesses understand their consumer base.
-The identification of key consumer segments allows for more targeted marketing, optimizing marketing strategies to enhance customer engagement and increase sales.
+The identification of key consumer segments allows for more targeted marketing, optimizing marketing strategies to enhance customer engagement and increase sales
+.
 TOOLS USED:
-
 
 Python for data manipulation and analysis
 Seaborn for data visualization
