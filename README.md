@@ -14,9 +14,10 @@ KEY INSIGHTS:
 
 The analysis revealed critical customer behavior patterns and correlations that help businesses understand their consumer base.
 The identification of key consumer segments allows for more targeted marketing, optimizing marketing strategies to enhance customer engagement and increase sales
+
 .
 TOOLS USED:
 
-Python for data manipulation and analysis
-Seaborn for data visualization
-Pandas for data cleaning and preprocessing
+1.Python for data manipulation and analysis,
+2.Seaborn for data visualization,
+3.Pandas for data cleaning and preprocessing
